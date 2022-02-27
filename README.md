@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Micaeeld
+- 👀 Eu estou interessado em entrar na área de programação.
+- 🌱 Atualmente estou aprendendo Python, ja fiz cursos e agora vou me aprofundar na biblioteca Pygame e Tkinter
+- micaeldonadia18@gmail.com
